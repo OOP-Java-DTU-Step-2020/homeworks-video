@@ -9,7 +9,7 @@
   3 | 23.09.2020  | [Циклы и условия](03/README.md)                                              | https://youtu.be/9I0GUnNj11g
   4 | 25.09.2020  | [Статические методы](https://github.com/maxchv/practice-methods)             | https://youtu.be/B5xzL7L9ldM
   5 | 30.09.2020  | [Строковый калькулятор](05/hw.pdf)                                           | https://youtu.be/pGi-KnTBhnU
-  6 | 02.10.2020  | [Введение в ООП](https://github.com/OOP-Java-DTU-Step-2020/practice-oop)     | 
+  6 | 02.10.2020  | [Введение в ООП](https://github.com/OOP-Java-DTU-Step-2020/practice-oop)     | https://youtu.be/CMCBSTDjJtE
   7 | 07.10.2020  | [Работа с классам](https://github.com/OOP-Java-DTU-Step-2020/practice-oop)   | 
   8 | 09.10.2020  | [Введение в наследование](https://github.com/OOP-Java-DTU-Step-2020/practice-inheritance)                                         | 
   9 | 14.10.2020  | [Абстрактыне классы](09/hw.pdf)                                              | 
