@@ -24,3 +24,4 @@
   3 | Условия                         | https://forms.office.com/Pages/ResponsePage.aspx?id=HqQqHJJbBkmCfgwQ-dc4WRevbNftn25KtbmWZWQZALNUOUQ1QUVKNDI3TEUwN0lYWVBFMUpIWFZCUC4u
   4 | Инкапсуляция                    | https://forms.gle/J8new8wzsTHnBzPe8
   5 | Наследование                    | https://forms.gle/nc65kmUTzPun9BDj7
+  6 | Интерфейсы                      | https://forms.gle/yXNwBksNUfjPsnmm7
