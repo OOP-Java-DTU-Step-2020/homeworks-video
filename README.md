@@ -14,7 +14,8 @@
   8 | 09.10.2020  | [Введение в наследование](https://github.com/OOP-Java-DTU-Step-2020/practice-inheritance)| https://youtu.be/_bad0oqqIzY
   9 | 14.10.2020  | [Абстрактные классы](09/hw.pdf)                                              | 
  10 | 16.10.2020  | [Зоопарк](https://github.com/OOP-Java-DTU-Step-2020/practice-zoo)            |
- 11 | 06.11.202  | [Интерфейсы](https://github.com/OOP-Java-DTU-Step-2020/practice-interface.git)|
+ 11 | 06.11.2020  | [Интерфейсы](https://github.com/OOP-Java-DTU-Step-2020/practice-interface.git)|
+ 12 | 13.11.2020  | [Исключения](https://github.com/OOP-Java-DTU-Step-2020/practice-exception)    |
   
  ## Тесты
  
