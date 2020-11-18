@@ -28,3 +28,4 @@
   5 | Наследование                    | https://forms.gle/nc65kmUTzPun9BDj7
   6 | Интерфейсы                      | https://forms.gle/yXNwBksNUfjPsnmm7
   7 | Исключения                      | https://forms.gle/oF7hbUatpeoxg3Xw8
+  8 | Обобщения                       | https://forms.gle/cKCzvKADMozPGFiB8
