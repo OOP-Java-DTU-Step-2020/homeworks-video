@@ -2,7 +2,7 @@
  
  ## Разбор домашних заданий
  
-  № | Дата выдачи | Название                                                                     | Ссылка
+  № | Дата выдачи | Название                                                                     | Ссылка на видео разбора
  ---|-------------|------------------------------------------------------------------------------|-----------------------------
   1 | 08.09.2020  | [Кофе машина](01/README.md)                                                  | https://youtu.be/S-9VFHR8DSs
   2 | 18.09.2020  | [Массивы](https://github.com/OOP-Java-DTU-Step-2020/practice-array)          | https://drive.google.com/file/d/1fqSYDy40gCG6nl8bdvRLEcPWaU-90XnK/view 
@@ -16,6 +16,7 @@
  10 | 16.10.2020  | [Зоопарк](https://github.com/OOP-Java-DTU-Step-2020/practice-zoo)            |
  11 | 06.11.2020  | [Интерфейсы](https://github.com/OOP-Java-DTU-Step-2020/practice-interface.git)|
  12 | 13.11.2020  | [Исключения](https://github.com/OOP-Java-DTU-Step-2020/practice-exception)    |
+ 13 | 20.11.2020  | [Обобщения](https://github.com/OOP-Java-DTU-Step-2020/practice-generics.git)  |
   
  ## Тесты
  
