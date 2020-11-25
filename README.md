@@ -17,6 +17,7 @@
  11 | 06.11.2020  | [Интерфейсы](https://github.com/OOP-Java-DTU-Step-2020/practice-interface.git)|
  12 | 13.11.2020  | [Исключения](https://github.com/OOP-Java-DTU-Step-2020/practice-exception)    |
  13 | 20.11.2020  | [Обобщения](https://github.com/OOP-Java-DTU-Step-2020/practice-generics.git)  |
+ 14 | 25.11.2020  | [Обобщения 2](https://github.com/OOP-Java-DTU-Step-2020/practice-generic2)    |            
   
  ## Тесты
  
