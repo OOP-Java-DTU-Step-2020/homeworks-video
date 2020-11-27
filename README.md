@@ -12,8 +12,8 @@
   6 | 02.10.2020  | [Введение в ООП](https://github.com/OOP-Java-DTU-Step-2020/practice-oop)     | [Смотреть](https://youtu.be/CMCBSTDjJtE)
   7 | 07.10.2020  | [Работа с классам](https://github.com/OOP-Java-DTU-Step-2020/practice-oop)   | [Смотреть](https://youtu.be/EmIdukXqNxc)
   8 | 09.10.2020  | [Введение в наследование](https://github.com/OOP-Java-DTU-Step-2020/practice-inheritance)| [Смотреть](https://youtu.be/_bad0oqqIzY)
-  9 | 14.10.2020  | [Абстрактные классы](09/hw.pdf)                                              | [Часть 1](https://youtu.be/8yzmmZTJ72c) [Часть 2](https://youtu.be/9BACxWFGL8s)
- 10 | 16.10.2020  | [Зоопарк](https://github.com/OOP-Java-DTU-Step-2020/practice-zoo)            | [Часть 1](https://youtu.be/BFaWPnZBHAQ) [Часть 2](https://youtu.be/3nPQSGCmt0A) [Часть 3](https://youtu.be/BFaWPnZBHAQ)
+  9 | 14.10.2020  | [Абстрактные классы](09/hw.pdf)                                              | [Часть 1](https://youtu.be/8yzmmZTJ72c) | [Часть 2](https://youtu.be/9BACxWFGL8s)
+ 10 | 16.10.2020  | [Зоопарк](https://github.com/OOP-Java-DTU-Step-2020/practice-zoo)            | [Часть 1](https://youtu.be/faH56NBy1PY) [Часть 2](https://youtu.be/3nPQSGCmt0A)  [Часть 3](https://youtu.be/BFaWPnZBHAQ)
  11 | 06.11.2020  | [Интерфейсы](https://github.com/OOP-Java-DTU-Step-2020/practice-interface.git)|
  12 | 13.11.2020  | [Исключения](https://github.com/OOP-Java-DTU-Step-2020/practice-exception)    |
  13 | 20.11.2020  | [Обобщения](https://github.com/OOP-Java-DTU-Step-2020/practice-generics.git)  |
