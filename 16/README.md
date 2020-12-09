@@ -16,3 +16,5 @@
 6. Запушить изменения на гитхаб и отправить ссылку на проверку через mystat
 
 Пример кода с занятия: https://github.com/maxchv/blackjack-java
+
+![controls](controls.png)
