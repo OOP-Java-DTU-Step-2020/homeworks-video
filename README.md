@@ -15,14 +15,14 @@
   9 | 14.10.2020  | [Абстрактные классы](09/hw.pdf)                                              | [Часть 1](https://youtu.be/8yzmmZTJ72c) [Часть 2](https://youtu.be/9BACxWFGL8s)
  10 | 16.10.2020  | [Зоопарк](https://github.com/OOP-Java-DTU-Step-2020/practice-zoo)            | [Часть 1](https://youtu.be/faH56NBy1PY) [Часть 2](https://youtu.be/3nPQSGCmt0A)  [Часть 3](https://youtu.be/BFaWPnZBHAQ)
  11 | 23.10.2020  | [JUnit](05/hw.pdf)                                                            |
- 11 | 06.11.2020  | [Интерфейсы](https://github.com/OOP-Java-DTU-Step-2020/practice-interface.git)| [Смотреть](https://youtu.be/yHCm1zKGBn8)
- 12 | 13.11.2020  | [Исключения](https://github.com/OOP-Java-DTU-Step-2020/practice-exception)    | [Смотреть](https://youtu.be/2iRxBOQwIWg)
- 13 | 20.11.2020  | [Обобщения](https://github.com/OOP-Java-DTU-Step-2020/practice-generics.git)  |
- 14 | 25.11.2020  | [Обобщения 2](https://github.com/OOP-Java-DTU-Step-2020/practice-generic2)    |       
- 15 | 27.11.2020  | [Коллекции](https://github.com/OOP-Java-DTU-Step-2020/practice-collection)    |
- 16 | 02.12.2020  | [JavaFX](16/README.md)                                                        |
- 17 | 04.12.2020  | [Диаграммы классов](17/REAMDE.md)                                             |
- 18 | 09.12.2020  | [Перечисления](https://github.com/OOP-Java-DTU-Step-2020/blackjack-start)     |
+ 12 | 06.11.2020  | [Интерфейсы](https://github.com/OOP-Java-DTU-Step-2020/practice-interface.git)| [Смотреть](https://youtu.be/yHCm1zKGBn8)
+ 13 | 13.11.2020  | [Исключения](https://github.com/OOP-Java-DTU-Step-2020/practice-exception)    | [Смотреть](https://youtu.be/2iRxBOQwIWg)
+ 14 | 20.11.2020  | [Обобщения](https://github.com/OOP-Java-DTU-Step-2020/practice-generics.git)  |
+ 15 | 25.11.2020  | [Обобщения 2](https://github.com/OOP-Java-DTU-Step-2020/practice-generic2)    |       
+ 16 | 27.11.2020  | [Коллекции](https://github.com/OOP-Java-DTU-Step-2020/practice-collection)    |
+ 17 | 02.12.2020  | [JavaFX](16/README.md)                                                        |
+ 18 | 04.12.2020  | [Диаграммы классов](17/REAMDE.md)                                             |
+ 19 | 09.12.2020  | [Перечисления](https://github.com/OOP-Java-DTU-Step-2020/blackjack-start)     |
   
  ## Тесты
  
