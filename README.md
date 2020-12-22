@@ -17,7 +17,7 @@
  11 | 23.10.2020  | [JUnit](05/hw.pdf)                                                            | [Смотреть](https://youtu.be/A3i__hOXE2o)
  12 | 06.11.2020  | [Интерфейсы](https://github.com/OOP-Java-DTU-Step-2020/practice-interface.git)| [Смотреть](https://youtu.be/yHCm1zKGBn8)
  13 | 13.11.2020  | [Исключения](https://github.com/OOP-Java-DTU-Step-2020/practice-exception)    | [Смотреть](https://youtu.be/2iRxBOQwIWg)
- 14 | 20.11.2020  | [Обобщения](https://github.com/OOP-Java-DTU-Step-2020/practice-generics.git)  |
+ 14 | 20.11.2020  | [Обобщения](https://github.com/OOP-Java-DTU-Step-2020/practice-generics.git)  | [Смотреть](https://youtu.be/MLo05eapkok)
  15 | 25.11.2020  | [Обобщения 2](https://github.com/OOP-Java-DTU-Step-2020/practice-generic2)    |       
  16 | 27.11.2020  | [Коллекции](https://github.com/OOP-Java-DTU-Step-2020/practice-collection)    |
  17 | 02.12.2020  | [JavaFX](16/README.md)                                                        |
