@@ -19,10 +19,10 @@
  13 | 13.11.2020  | [Исключения](https://github.com/OOP-Java-DTU-Step-2020/practice-exception)    | [Смотреть](https://youtu.be/2iRxBOQwIWg)
  14 | 20.11.2020  | [Обобщения](https://github.com/OOP-Java-DTU-Step-2020/practice-generics.git)  | [Смотреть](https://youtu.be/MLo05eapkok)
  15 | 25.11.2020  | [Обобщения 2](https://github.com/OOP-Java-DTU-Step-2020/practice-generic2)    | [Смотреть](https://youtu.be/QOMicRJ5f6g)      
- 16 | 27.11.2020  | [Коллекции](https://github.com/OOP-Java-DTU-Step-2020/practice-collection)    | []()
- 17 | 02.12.2020  | [JavaFX](16/README.md)                                                        | []()
- 18 | 04.12.2020  | [Диаграммы классов](17/REAMDE.md)                                             | []()
- 19 | 09.12.2020  | [Перечисления](https://github.com/OOP-Java-DTU-Step-2020/blackjack-start)     | []()
+ 16 | 27.11.2020  | [Коллекции](https://github.com/OOP-Java-DTU-Step-2020/practice-collection)    | [Смотреть](https://youtu.be/wwkV2Sklsqc)
+ 17 | 02.12.2020  | [JavaFX](16/README.md)                                                        | [Смотреть]()
+ 18 | 04.12.2020  | [Диаграммы классов](17/REAMDE.md)                                             | [Смотреть]()
+ 19 | 09.12.2020  | [Перечисления](https://github.com/OOP-Java-DTU-Step-2020/blackjack-start)     | [Смотреть]()
   
  ## Тесты
  
